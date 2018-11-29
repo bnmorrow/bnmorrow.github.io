@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+  background-color: white;
+  color: black;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  text-transform: uppercase;
+    text-decoration: underline;
+}
+
+h2 {
+  text-align: center;
+  font-size: 25px;
+  font-style: normal;
+}
+p {
+  text-align: center;
+}
+#subHeader {
+  background-color: red;
+  padding: 10px;
+  margin: 5px;
+}
